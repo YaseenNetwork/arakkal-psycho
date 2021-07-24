@@ -55,12 +55,11 @@ echo " "
 
         exit
     elif [ $ch -eq 2 ];then
-         git clone https://github.com/IncredibleHacker/TBomb2.0 
-         cd Fl00d-Attacker
-         cd TBomb2.0
-         pip2 install requirements.txt
-         chmod +x TBomb2.0.sh
-         python3 bomber.py
+         git clone https://github.com/noob-hackers/ighack 
+         cd $HOME 
+         cd ighack
+         bash setup
+         bash ighack.sh
         
         exit
     elif [ $ch -eq 3 ];then
