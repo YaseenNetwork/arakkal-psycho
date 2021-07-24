@@ -74,15 +74,15 @@ echo " "
     elif [ $ch -eq 4 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
-        rm -rf Fl00d-Attacker
-        https://github.com/IncredibleHacker/TBomb-2.0
-        cd Fl00d-Attacker
-        bash TBomb2.0.sh
+        rm -rf insta-hack
+        git clone https://github.com/IncredibleHacker/insta-hack
+        cd insta-hack
+        bash insta-hack.sh
 
     elif [ $ch -eq 5 ];then
         echo -e 
         cd $HOME
-        rm -rf Fl00d-Attacker
+        rm -rf insta-hack
 
    elif [ $ch -eq 6 ];then 
         cd $HOME
