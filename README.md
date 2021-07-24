@@ -2,16 +2,15 @@
 
 ## Features:
 
-- sms bombing
-- call bombing
-- mail bombing
-- whatsapp bombing
-- Frequent updates
+- Insta information gathering
+- Insta brute force attack
+- Insta account banner
+- Update script
+- Remove script
 
 ## Available On
 - Termux
 - Kali Linux
-- macOS
 
 ## Test On:
 - Termux
@@ -26,10 +25,10 @@
 * `pkg install git`
 * `git clone https://github.com/IncredibleHacker/insta-hack`
 * `ls`
-* `cd TBomb2.0`
-* `pip2 install requirements.txt`
-* `chmod +x TBomb2.0.sh`
-* `./TBomb.sh Or bash TBomb2.0.sh`
+* `cd insta-hack`
+* `pip3 install -r requirements.txt`
+* `chmod +x insta-hack.sh`
+* `bash insta-hack.sh`
 
 ## INSTALLATION [Kali Linux] :
 
@@ -38,8 +37,8 @@
 * `sudo apt install git`
 * `git clone https://github.com/IncredibleHacker/insta-hack`
 * `ls`
-* `cd TBomb2.0`
-* `ls`
-* `chmod +x TBomb2.0.sh`
-* `./TBomb.sh Or bash TBomb2.0.sh`
+* `cd insta-hack`
+* `pip3 install -r requirements.txt`
+* `chmod +x insta-hack.sh`
+* `sudo bash insta-hack.sh`
 
