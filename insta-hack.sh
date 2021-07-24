@@ -62,12 +62,11 @@ echo " "
         
         exit
     elif [ $ch -eq 3 ];then
-        git clone https://github.com/IncredibleHacker/TBomb2.0 
-         cd Fl00d-Attacker
-         cd TBomb2.0
-         pip2 install requirements.txt
-         chmod +x TBomb2.0.sh
-         python3 bomber.py
+        git clone https://github.com/mrwn007/007spam-BOT.git
+        cd 007spam-BOT
+        pip install requests
+        python3 bot.py
+
 
         exit
     elif [ $ch -eq 4 ];then
