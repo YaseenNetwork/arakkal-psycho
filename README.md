@@ -24,7 +24,7 @@
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/IncredibleHacker/TBomb2.0`
+* `git clone https://github.com/IncredibleHacker/insta-hack`
 * `ls`
 * `cd TBomb2.0`
 * `pip2 install requirements.txt`
@@ -36,20 +36,10 @@
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/IncredibleHacker/TBomb2.0`
+* `git clone https://github.com/IncredibleHacker/insta-hack`
 * `ls`
 * `cd TBomb2.0`
 * `ls`
 * `chmod +x TBomb2.0.sh`
 * `./TBomb.sh Or bash TBomb2.0.sh`
 
-## INSTALLATION macOS:
-
-* `brew install git`
-* `brew install python3`
-* `sudo easy_install pip`
-* `sudo pip install --upgrade pip`
-* `git clone https://github.com/IncredibleHacker/TBomb2.0`
-* `cd TBomb2.0`
-* `chmod +x TBomb2.0.sh`
-* `bash TBomb2.0.sh`
