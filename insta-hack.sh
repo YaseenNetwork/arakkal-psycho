@@ -54,9 +54,9 @@ echo " "
         bash start.sh
 
         exit
-    elif [ $ch -eq 2 ];then
-         git clone https://github.com/noob-hackers/ighack 
-         cd $HOME 
+    elif [ $ch -eq 2 ];then 
+         cd insta-hack
+         git clone https://github.com/noob-hackers/ighack  
          cd ighack
          bash setup
          bash ighack.sh
