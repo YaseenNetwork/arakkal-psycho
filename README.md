@@ -16,7 +16,7 @@
 - Termux
 - Mi Note 9 pro
 
-## INSTALLATION [Termux]:
+## INSTALLATION [Termux]
 
 * `apt update`
 * `apt upgrade`
@@ -30,7 +30,7 @@
 * `chmod +x insta-hack.sh`
 * `bash insta-hack.sh`
 
-## INSTALLATION [Kali Linux]:
+## INSTALLATION [Kali Linux]
 
 * `sudo apt install python`
 * `sudo apt install python2`
