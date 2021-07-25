@@ -8,6 +8,12 @@
 - Update script
 - Remove script
 
+## Requirements
+- Data connection
+- Internet 200MB
+- storage 400MB
+- No Root
+
 ## Available On
 - Termux
 - Kali Linux
