@@ -49,6 +49,11 @@
 * `sudo bash insta-hack.sh`
 
 ## Screenshot:
+<br>
+<p align="center">
+<img width="90%" 
+src="https://github.com/IncredibleHacker/insta-hack/blob/main/Ig_information_gathering/Core_files/IMG_20210725_122737.jpg"
+
 
 ## Warning:
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
