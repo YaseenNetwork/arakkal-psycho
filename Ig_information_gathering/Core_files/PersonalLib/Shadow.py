@@ -14,7 +14,7 @@ BG_P = '\033[0;37;44m'
 BG_K = '\033[0;37;45m'
 
 dict = {
-	"FirstMsg" :   "		WELCOME TO ZXLLKADA TOOLS\n		How Are You Doing ? ",
+	"FirstMsg" :   "		WELCOME TO Insta-hack TOOLS\n		How Are You Doing ? ",
 	"Answer" : " I Hope You're Good",
 	"Spaces" : "\n",
 	"No Internet" : " You Are Not Connected ",
@@ -39,10 +39,12 @@ dict = {
 ''',
 	"Draw" : '''
 
-	    + - -- [ BY KADA ]
-	    + - -- [ V 13.7 ]
-	    + - -- [ For V 28.6 PRO - Telegram : @Zkada ]
-	    + - -- [ Get Instagram Users Info ]
+	    + - -- [ BY incredible hacker ]
+	    + - -- [ V 1.5 ]
+	    + - -- [ YouTube : Incredible hacker ]
+            + - -- [ Telegram : @incrediblehackers]
+            + - -- [ Instagram : @ncrediblehackers_official ]
+            + - -- [ whatsapp no. : +91 8510010786 ]
 
 	>>>  EXIT USE : CTRL + C + ENTER  <<<
 ''',
@@ -51,7 +53,7 @@ dict = {
 	  、[ GET USERS FROM ANY HASHTAG ]
 ''',
 	"Draw3" : '''
-		、[ ONLY ON TELEGRAM CHANNEL ]
+		、[ Internet connection required ]
 
 ''',
 	"Headers" : {
