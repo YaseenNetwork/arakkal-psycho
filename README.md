@@ -1,4 +1,4 @@
-# insta-hack
+## About tool
 
 ## Features:
 
