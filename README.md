@@ -48,5 +48,7 @@
 * `chmod +x insta-hack.sh`
 * `sudo bash insta-hack.sh`
 
+## Screenshot:
+
 ## Warning:
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
