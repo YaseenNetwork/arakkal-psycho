@@ -51,8 +51,7 @@
 ## Screenshot:
 <br>
 <p align="center">
-<img width="80%" 
-src="https://github.com/IncredibleHacker/insta-hack/blob/main/Ig_information_gathering/Core_files/IMG_20210725_122737.jpg"
+<img width="95%" src="https://github.com/IncredibleHacker/insta-hack/blob/main/Ig_information_gathering/Core_files/IMG_20210725_122737.jpg"
 
 
 ## Warning:
