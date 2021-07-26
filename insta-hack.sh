@@ -18,6 +18,7 @@ apt-get install python2
 clear
 echo -e "$Purple Created By \e[1;34m"
        figlet Incredible Hacker | lolcat
+sleep 2.0
     echo -e " \e[96m  
                                      ████████ \e[0m"
 echo "                                 ████████████████
