@@ -34,7 +34,7 @@
 * `cd insta-hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
-* `bash setup.sh
+* `bash setup.sh`
 * `bash insta-hack.sh`
 
 ## INSTALLATION [Kali Linux]
