@@ -40,7 +40,7 @@ echo -e " $Green     ||----------------------------$Cyan [features] $Green------
 echo -e " $Green     ||                                                                   ||"
 echo -e " $Green     ||             $Purple==>$Yellow[1️⃣] Insta information gathering$Green                    ||"
 echo -e " $Green     ||             $Purple==>️$Yellow[2️⃣] Insta brute force attack$Green                       ||"
-echo -e " $Green     ||             $Purple==>$Yellow[3️⃣] Insta account banner$Green                           ||"
+echo -e " $Green     ||             $Purple==>$Yellow[3️⃣] Insta auto reporter$Green                           ||"
 echo -e " $Green     ||             $Purple==>$Yellow[4️⃣] Update script$Green                                  ||"
 echo -e " $Green     ||             $Purple==>$Yellow[5️⃣] Remove script$Green                                  ||"
 echo -e " $Green     ||             $Purple==>$Yellow[6️⃣] About$Green                                          ||"
