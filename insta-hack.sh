@@ -41,7 +41,7 @@ echo -e " $Green     ||                                                         
 echo -e " $Green     ||             $Purple==>$Yellow[1️⃣] Insta information gathering$Green                    ||"
 echo -e " $Green     ||             $Purple==>️$Yellow[2️⃣] Insta brute force attack$Green                       ||"
 echo -e " $Green     ||             $Purple==>$Yellow[3️⃣] Insta auto reporter$Green                           ||"
-echo -e " $Green     ||             $Purple==>$Yellow[4️⃣] Insta phishing page$Green                           ||"
+echo -e " $Green     ||             $Purple==>$Yellow[4️⃣] Insta phishing page(coming soon)$Green                           ||"
 echo -e " $Green     ||             $Purple==>$Yellow[5️⃣] Update script$Green                                  ||"
 echo -e " $Green     ||             $Purple==>$Yellow[6️⃣] Remove script$Green                                  ||"
 echo -e " $Green     ||             $Purple==>$Yellow[7️⃣] About$Green                                          ||"
