@@ -73,28 +73,29 @@ echo " "
         pip install requests
         python3 bot.py
 
-
         exit
     elif [ $ch -eq 4 ];then
+        cd $HOME
+
+        exit
+    elif [ $ch -eq 5 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf insta-hack
         git clone https://github.com/IncredibleHacker/insta-hack
         cd insta-hack
         bash insta-hack.sh
-
-    elif [ $ch -eq 5 ];then
-        echo -e 
-        cd $HOME
-        rm -rf insta-hack
-
+     
+        exit
    elif [ $ch -eq 6 ];then 
         cd $HOME
+        rm -rf insta-hack
         
-
+        exit
    elif [ $ch -eq 7 ];then
         echo -e 
         cd $HOME
+
         exit
         
     else
