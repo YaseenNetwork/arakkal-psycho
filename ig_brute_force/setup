@@ -48,7 +48,7 @@ echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
 center "[X]COMPLETED SUCCESSFULLY[X]"
 am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
 rm setup
-cd $HOME/insta-hack/ig_brute_force
+cd ig_brute_force
 bash ighack.sh
 else
 echo -e "\e[34mNOT ENOUGH STORAGE [\e[91mX\e[34m]\e[0m"
