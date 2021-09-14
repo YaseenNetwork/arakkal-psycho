@@ -61,7 +61,7 @@ echo " "
 
         exit
     elif [ $ch -eq 2 ];then 
-         cd $HOME/insta-hack/ighack
+         cd $HOME/insta-hack/ig_brute_force
          bash setup
          bash ighack.sh
         
