@@ -34,5 +34,5 @@ instagram-py --username $usrnm --password-list $inspass
 echo
 cd $HOME/insta-hack
 fi
-cd $HOME/insta-hack/ighack
-bash ighack.sh
+cd $HOME/insta-hack/ig_brute_force
+bash ig_brute_force.sh
