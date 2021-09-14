@@ -64,6 +64,7 @@ echo " "
          cd insta-hack
          git clone https://github.com/noob-hackers/ighack  
          cd ighack
+         bash setup
          bash ighack.sh
         
         exit
