@@ -61,8 +61,7 @@ echo " "
 
         exit
     elif [ $ch -eq 2 ];then 
-         cd $HOME
-         cd insta-hack/ighack
+         cd $HOME/insta-hack/ighack
          bash setup
          bash ighack.sh
         
