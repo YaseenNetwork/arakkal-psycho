@@ -50,4 +50,4 @@ cd $HOME/insta-hack
 fi
 sleep 10.0
 cd $HOME/insta-hack/ig_brute_force
-bash ig_brute_force.sh
+bash ighack.sh
