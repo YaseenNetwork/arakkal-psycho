@@ -35,4 +35,4 @@ echo
 cd $HOME/insta-hack
 fi
 cd $HOME/insta-hack/ig_brute_force
-bash ig_brute_force.sh
+bash ighack.sh
